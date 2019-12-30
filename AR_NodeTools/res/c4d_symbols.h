@@ -1,0 +1,38 @@
+enum
+{                                                        
+    // Plugin String IDs (50000+)                      
+    IDS_AR_ADDRSTEXTURECONTROLLERS_NAME                 = 50001,
+    IDS_AR_ADDRSTEXTURECONTROLLERS_BMPNAME              = 50002,
+    IDS_AR_ADDRSTEXTURECONTROLLERS_HELP                 = 50003,
+
+    IDS_AR_ALIGNNODESHORIZONTALLY_NAME                  = 50011,
+    IDS_AR_ALIGNNODESHORIZONTALLY_BMPNAME               = 50012,
+    IDS_AR_ALIGNNODESHORIZONTALLY_HELP                  = 50013,
+
+    IDS_AR_ALIGNNODESVERTICALLY_NAME                    = 50021,
+    IDS_AR_ALIGNNODESVERTICALLY_BMPNAME                 = 50022,
+    IDS_AR_ALIGNNODESVERTICALLY_HELP                    = 50023,
+
+    IDS_AR_CONNECTNODES_NAME                            = 50031,
+    IDS_AR_CONNECTNODES_BMPNAME                         = 50032,
+    IDS_AR_CONNECTNODES_HELP                            = 50033,
+
+    IDS_AR_DISTRIBUTENODESHORIZONTALLY_NAME             = 50041,
+    IDS_AR_DISTRIBUTENODESHORIZONTALLY_BMPNAME          = 50042,
+    IDS_AR_DISTRIBUTENODESHORIZONTALLY_HELP             = 50043,
+
+    IDS_AR_DISTRIBUTENODESVERTICALLY_NAME               = 50051,
+    IDS_AR_DISTRIBUTENODESVERTICALLY_BMPNAME            = 50052,
+    IDS_AR_DISTRIBUTENODESVERTICALLY_HELP               = 50053,
+
+    IDS_AR_LINEUPNODESHORIZONTALLY_NAME                 = 50061,
+    IDS_AR_LINEUPNODESHORIZONTALLY_BMPNAME              = 50062,
+    IDS_AR_LINEUPNODESHORIZONTALLY_HELP                 = 50063,
+
+    IDS_AR_LINEUPNODESVERTICALLY_NAME                   = 50071,
+    IDS_AR_LINEUPNODESVERTICALLY_BMPNAME                = 50072,
+    IDS_AR_LINEUPNODESVERTICALLY_HELP                   = 50073,
+                                                        
+	// End of symbol definition
+	_DUMMY_ELEMENT_
+};

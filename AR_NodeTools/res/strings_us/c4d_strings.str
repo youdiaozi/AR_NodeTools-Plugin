@@ -1,0 +1,35 @@
+STRINGTABLE
+{
+    // Plugin Strings
+    IDS_AR_ADDRSTEXTURECONTROLLERS_NAME                 "AR_AddRSTextureControllers";
+    IDS_AR_ADDRSTEXTURECONTROLLERS_BMPNAME              "AR_AddRSTextureControllers";
+    IDS_AR_ADDRSTEXTURECONTROLLERS_HELP                 "Creates individual scale, offset and rotate control nodes for Redshift texture and triplanar nodes.";
+    
+    IDS_AR_ALIGNNODESHORIZONTALLY_NAME                  "AR_AlignNodesHorizontally";
+    IDS_AR_ALIGNNODESHORIZONTALLY_BMPNAME               "AR_AlignNodesHorizontally";
+    IDS_AR_ALIGNNODESHORIZONTALLY_HELP                  "Aligns selected graph nodes horizontally\nDefault: Align to top\nShift: Align to center\nCtrl: Align to bottom";
+    
+    IDS_AR_ALIGNNODESVERTICALLY_NAME                    "AR_AlignNodesVertically";
+    IDS_AR_ALIGNNODESVERTICALLY_BMPNAME                 "AR_AlignNodesVertically";
+    IDS_AR_ALIGNNODESVERTICALLY_HELP                    "Aligns selected graph nodes vertically\nDefault: Align to left\nShift: Align to center\nCtrl: Align to right";
+    
+    IDS_AR_CONNECTNODES_NAME                            "AR_ConnectNodes";
+    IDS_AR_CONNECTNODES_BMPNAME                         "AR_ConnectNodes";
+    IDS_AR_CONNECTNODES_HELP                            "Connect two nodes, if possible.\nOutport node: Min px node\nInport: Max px node\nDefault: First port\nShift: Customize port index\nCtrl: Last port";
+    
+    IDS_AR_DISTRIBUTENODESHORIZONTALLY_NAME             "AR_DistributeNodesHorizontally";
+    IDS_AR_DISTRIBUTENODESHORIZONTALLY_BMPNAME          "AR_DistributeNodesHorizontally";
+    IDS_AR_DISTRIBUTENODESHORIZONTALLY_HELP             "Distributes selected graph nodes horizontally";
+    
+    IDS_AR_DISTRIBUTENODESVERTICALLY_NAME               "AR_DistributeNodesVertically";
+    IDS_AR_DISTRIBUTENODESVERTICALLY_BMPNAME            "AR_DistributeNodesVertically";
+    IDS_AR_DISTRIBUTENODESVERTICALLY_HELP               "Distributes selected graph nodes vertically";
+    
+    IDS_AR_LINEUPNODESHORIZONTALLY_NAME                 "AR_LineUpNodesHorizontally";
+    IDS_AR_LINEUPNODESHORIZONTALLY_BMPNAME              "AR_LineUpNodesHorizontally";
+    IDS_AR_LINEUPNODESHORIZONTALLY_HELP                 "Lines up selected graph nodes horizontally\nDefault: Default spacing\nShift: Customize spacing";
+    
+    IDS_AR_LINEUPNODESVERTICALLY_NAME                   "AR_LineUpNodesVertically";
+    IDS_AR_LINEUPNODESVERTICALLY_BMPNAME                "AR_LineUpNodesVertically";
+    IDS_AR_LINEUPNODESVERTICALLY_HELP                   "Lines up selected graph nodes vertically\nDefault: Default spacing\nShift: Customize spacing";
+}
