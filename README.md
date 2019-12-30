@@ -7,7 +7,7 @@ Arttu Rautio's AR_NodeTools plug-in version
 - Github: https://github.com/aturtur
     
 ## Plug-in version：
-- Plugin-in：youdiaozi
+- Plug-in：youdiaozi
 - Github：https://github.com/youdiaozi
 - Chinese version main page：http://live.c4d.cn/home.php?mod=space&uid=32217&do=index
 
