@@ -17,8 +17,8 @@ Arttu Rautio's AR_NodeTools plug-in version
     - for c4d R20, that would be: X:\Program Files\MAXON\Cinema 4D R20\plugins\
     - for c4d R21, that would be: X:\Program Files\Maxon Cinema 4D R21\plugins\
 2. From the main menu, you should see AR_NodeTools plugin under the plugins menu(as image1.jpg shows)
-    - for c4d R19/R20, that would be: Extensions > AR_NodeTools
-    - for c4d R21, that would be: Plugins > AR_NodeTools
+    - for c4d R19/R20, that would be: Plugins > AR_NodeTools
+    - for c4d R21, that would be: Extensions > AR_NodeTools
     - ![image1](https://github.com/youdiaozi/AR_NodeTools-Plugin/blob/master/How%20to%20use/image1.jpg)
 3. Click the top part of the submenuitem(see red box in image1.jpg), then the AR_NodeTools should appear as the floating window, that makes it more convienent to use.
 4. Double click the xpresso tag to edit the xpresso. Make sure the xpresso tag is in active state(as image2.jpg shows).
